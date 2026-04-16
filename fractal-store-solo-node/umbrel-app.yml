@@ -2,7 +2,7 @@ manifestVersion: 1
 id: fractal-store-solo-node
 category: bitcoin
 name: Fractal Bitcoin Node
-version: "0.3.0"
+version: "0.3.1"
 tagline: Run a Fractal Bitcoin full node for solo SHA-256 mining
 icon: https://raw.githubusercontent.com/wvk2017/my-app/c3b9f7c73a52a6f7c8aec05affef84276c100e7e/fractal-store-solo-node/icon.svg
 description: >-
@@ -38,6 +38,7 @@ path: ""
 defaultUsername: ""
 defaultPassword: ""
 releaseNotes: >-
+  Initial release. Runs fractald v0.3.0
   Initial release. Runs fractald v0.2.9rc2 with dashboard showing node status and
   miner connection details.
 submitter: community
