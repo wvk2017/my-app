@@ -41,7 +41,6 @@ services:
       VERSION: "0.3.0"
     command: >
       bash -c "
-        set -e
      FROM ubuntu:22.04
      RUN apt-get update -y
      RUN apt-get install wget -y
