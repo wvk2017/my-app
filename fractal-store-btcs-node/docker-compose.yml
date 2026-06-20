@@ -22,4 +22,4 @@ services:
     ports:
       - 9015:9015    # RPC
       - 7015:7015    # ZMQ
-    entrypoint: "bitcoinsilverd -printtoconsole -server -prune=550 -wallet=default -zmqpubhashblock=tcp://127.0.0.1:7015 -rpcbind=0.0.0.0 -rpcport=9015 -rpcallowip=0.0.0.0/0 -rpcuser=pooluser -rpcpassword=poolpassword -addnode=89.163.242.248:10566 -addnode=95.141.241.26:10566"
+    entrypoint: "bitcoinsilverd -printtoconsole -server -prune=550 -wallet=default -zmqpubhashblock=tcp://127.0.0.1:7015 -rpcbind=0.0.0.0 -rpcport=9015 -rpcallowip=0.0.0.0/0 -rpcuser=pooluser -rpcpassword=poolpassword -addnode=addnode=38.49.216.154:47512 -addnode=addnode=85.215.252.249:10566 -addnode=162.19.244.187:47134 -addnode=195.154.167.36:10566 -addnode164.68.125.48:36822 -addnode=82.165.45.164:37036 -addnode=190.2.145.93:5034 -addnode=162.19.28.235:57382 -addnode=81.181.166.76:10566"
