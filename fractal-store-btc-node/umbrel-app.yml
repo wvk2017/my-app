@@ -1,10 +1,10 @@
 manifestVersion: 1
-id: retro-mike-btc-node
+id: fractal-store-btc-node
 name: Bitcoin (BTC) Node
 tagline: Bitcoin Node. This is a general node app for Bitcoin and can be used to in conjunction with mining pool software to solo mine, or just be ran standalone to help contribute to the Bitcoin network.
 icon: https://miningpoolstats.stream/ico/bitcoin.webp
 category: Mining Nodes
-version: "1.0.1"
+version: "1.0.2"
 port: 5009
 description: |
   Bitcoin Node. This is a general node app for Bitcoin and can be used to in conjunction with mining pool software to solo mine, or just be ran standalone to help contribute to the Bitcoin network.
