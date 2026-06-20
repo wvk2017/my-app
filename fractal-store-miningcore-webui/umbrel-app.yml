@@ -4,7 +4,7 @@ name: MiningCore Web UI
 tagline: Web UI for the MiningCore Mining Pool App
 icon: https://raw.githubusercontent.com/TheRetroMike/retromike-umbrel-app-store/master/retro-mike-miningcore-webui/webui.png
 category: SOLO Crypto Mining
-version: "2.8.0"
+version: "2.8.1"
 port: 8559
 description: |
   Web UI for the MiningCore Mining Pool App. For a full functioning app, you will also need to install the MiningCore App.
